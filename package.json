@@ -1,0 +1,26 @@
+{
+  "name": "fellowship-one",
+  "version": "0.0.0",
+  "description": "A wrapper for Fellowship One.",
+  "homepage": "http://www.wolframcreative.com/f1",
+  "bugs": "https://github.com/etanlubeck/fellowship-one/issues",
+  "author": {
+    "name": "Nate Lubeck",
+    "email": "nate@wolframcreative.com",
+    "url": "http://www.natelubeck.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etanlubeck/fellowship-one"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
